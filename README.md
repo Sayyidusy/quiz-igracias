@@ -1,6 +1,9 @@
-# quiz-igracias
-auto input
+# kuis-auto-telyu
 
+
+masukan kode dibawah ini ke dalam inspect elemen pas di menu pilihan kuis
+
+```
 Array.prototype.random = function () {
   return this[Math.floor((Math.random()*this.length))];
 }
@@ -20,3 +23,5 @@ $('div[id="radioX"]').each(function(index, value) {
     }
   $(`div[id='radioX']:eq(${index}) li:eq(${terpilih}) input`).attr('checked', true);
 });
+
+```
