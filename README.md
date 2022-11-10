@@ -1,0 +1,2 @@
+# quiz-igracias
+auto input
