@@ -1,7 +1,7 @@
 # kuis-auto-telyu
 by mrzf833
 
-masukan kode dibawah ini ke dalam inspect elemen pas di menu pilihan kuis
+masukan kode dibawah ini ke dalam inspect element bagian console pas di menu pilihan kuis
 
 ```
 Array.prototype.random = function () {
